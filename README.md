@@ -61,3 +61,11 @@
 - Check that all dependencies are installed correctly
 - Verify environment variables are set properly
 - Make sure ports 3000 and 5000 are not in use by other applications
+
+## images
+<img width="1920" height="1200" alt="Screenshot (824)" src="https://github.com/user-attachments/assets/ea2e07c1-3ebd-46a0-9b8c-aa3536a1db06" />
+<img width="1920" height="1200" alt="Screenshot (823)" src="https://github.com/user-attachments/assets/e0a10232-40f1-4f3b-b841-bff3b8588d0b" />
+<img width="1920" height="1200" alt="Screenshot (822)" src="https://github.com/user-attachments/assets/ac8371a8-1bca-447c-93e3-985ec1525e4a" />
+<img width="1920" height="1200" alt="Screenshot (821)" src="https://github.com/user-attachments/assets/17b7c83e-4c06-4fbb-9819-7ecc91f67c43" />
+<img width="1920" height="1200" alt="Screenshot (820)" src="https://github.com/user-attachments/assets/eabb9bb0-e2fd-45bb-ad17-12a4066cda20" />
+
